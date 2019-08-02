@@ -1,0 +1,19 @@
+{
+  "name": "@findx/markdown2vue-loader",
+  "version": "0.1.0",
+  "description": "compile markdown to vue",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "^9.15.9",
+    "loader-utils": "^1.2.3",
+    "markdown-it": "^9.0.1",
+    "markdown-it-anchor": "^5.2.4",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-table-of-contents": "^0.4.4",
+    "transliteration": "^2.1.5"
+  }
+}
