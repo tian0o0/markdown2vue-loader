@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "highlight.js": "^9.15.9",
+    "highlight.js": "^10.4.1",
     "loader-utils": "^1.2.3",
     "markdown-it": "^9.0.1",
     "markdown-it-anchor": "^5.2.4",
